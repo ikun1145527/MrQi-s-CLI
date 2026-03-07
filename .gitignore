@@ -1,3 +1,3 @@
-./log/
-./interface.json
-./key.txt
+*.log
+interface.json
+key.txt
